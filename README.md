@@ -89,3 +89,6 @@ setu y
 发送指令 `刷步绑定` 输入账号密码之后绑定为你当前的qq号  
 定时刷步开关指令：`定时刷 开` 或 `定时刷 关`  
 ***<font size=4>注：需要在文件中把qq号改为自己的</font>***
+## 结语
+<font size=5>如果觉得对你有所帮助的话<br>请给我一个小小的star。谢谢！<br>如果不明白的地方欢迎随时提问。</font>   
+bilibili：[爱睡觉的波比鸭](https://space.bilibili.com/57254257?spm_id_from=333.337.0.0) **:point_left:**
